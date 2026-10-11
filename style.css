@@ -71,6 +71,7 @@ main {
   display: flex;
   gap: 16px;
   margin-top: 20px;
+  flex-wrap: wrap;
 }
 
 .kartu-item {
